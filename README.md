@@ -59,10 +59,10 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 ## 📊 Stats
 <!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
+<p> <img src="https://komarev.com/ghpvc/?username=Dev0psKing" alt="ginny100" /> </p> -->
 
 <!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
+![](https://visitor-badge.laobi.icu/badge?page_id=Dev0psKing.ginny100)
 
 <!-- LeetCode Stats Card -->
 <!-- <p align="center">
