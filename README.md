@@ -1,5 +1,5 @@
 <!--
-Hello, my name is Ginny, ahihi.
+Hello, my name is Collins, aka King.
 -->
 
 # Hi there! Welcome to my GitHub Profile! ✨
