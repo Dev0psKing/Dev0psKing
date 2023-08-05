@@ -58,5 +58,5 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
