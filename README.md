@@ -84,4 +84,4 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 [![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ginny100&theme=rogue)](https://github.com/Dev0psKing/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
