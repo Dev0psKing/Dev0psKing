@@ -59,7 +59,16 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
     <code><a href="https://aws.amazon.com" title="AWS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></code>
     <code><a href="https://azure.microsoft.com/en-in/" title="Azure" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></code>
     <code><a href="https://cloud.google.com" title="Google Cloud" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a></code>
+    <code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/></a></code>
+    <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="flask" width="40" height="40"/></a></code>
+    <code><a href="https://fastapi.tiangolo.com/" title="FastAPI" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a></code>
+    <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" width="40" height="40"/></a></code>
+    <code><a href="https://maven.apache.org/" title="Maven" target="_blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="40" height="40"/></a></code>
+    <code><a href="https://prometheus.io/" title="Prometheus" target="_blank"><img src="https://prometheus.io/assets/icon--prometheus.svg" alt="prometheus" width="40" height="40"/></a></code>
+    <code><a href="https://restfulapi.net/" title="REST API" target="_blank"><img src="https://restfulapi.net/wp-content/uploads/rest-api-logo.png" alt="rest api" width="40" height="40"/></a></code>
+    <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://www.selenium.dev/images/selenium_logo_large.png" alt="selenium" width="40" height="40"/></a></code>
 </div>
+
 
 
 
