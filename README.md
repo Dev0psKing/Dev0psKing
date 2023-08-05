@@ -58,8 +58,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 </div>
 
 ## 📊 Stats
-Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=Dev0psKing" alt="ginny100" /> </p> 
+
 
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dev0psKing.Dev0psKing)
