@@ -4,7 +4,7 @@ Hello, my name is Collins, aka King.
 
 # Hi there! Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Uwabor, lover of good samsung technology🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/quote1-d.jpeg">
