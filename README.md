@@ -10,17 +10,15 @@ Hello, my name is Collins, aka King.
     <img width="90%" src="./assets/quote1-d.jpeg">
 </div>
 
-📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
+Reflecting back to before I started college in August **2015** for my first degree, I was, _in every sense_, not inclined towards technology. I grew up without a personal computer in a non-wifi environment 🤕 and coding, along with other intricate technical matters, was far from my thoughts. It's amazing how over time, these very aspects that I had never paid attention to became the cornerstone of my career.
 
-📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
+As of **2023**, I am venturing into the realm of Computer Science for my **second** degree, an unexpected path catalyzed by my newfound fascination with technology research and development. During my first degree, coding seemed to be an insurmountable challenge, and I couldn't have _disliked_ it more 😕.
 
-📖 Not until August __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
+However, things took a turn in August **2021**, when I genuinely immersed myself in programming and coding through AlX SE. It was then that I truly grasped the art of learning coding through trial and error.
 
-📖 I officially became a Software Engineer in August __2022__ after managing to _get out of_ college 3 months before that 🙏🏻
+Presently, I _take pleasure_ in acquainting myself with novel technologies and programming languages by methodically building projects from scratch. I eagerly anticipate engaging in real-world projects as a routine aspect of my future career 🛠.
 
-📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
-
-📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
+📖 **Self-directed learning** has seamlessly woven into the fabric of my life. It didn't take long for me to realize that GitHub is the ideal platform to chronicle my transformation from a technophobe to a technophile. It serves as my open learning journal, where I can capture notes and references as I delve into new technical domains. Moreover, it allows me to share these resources with fellow learners who might also find them valuable.
 
 <div align="center">
     <img width="60%" src="./assets/quote2.jpeg">
