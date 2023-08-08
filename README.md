@@ -21,7 +21,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 📖 **Self-directed learning** has seamlessly woven into the fabric of my life. It didn't take long for me to realize that GitHub is the ideal platform to chronicle my transformation from a technophobe to a technophile. It serves as my open learning journal, where I can capture notes and references as I delve into new technical domains. Moreover, it allows me to share these resources with fellow learners who might also find them valuable.
 
 - 🔭 I’m currently working on ... Continuous improvement of my development skills!
-- 🌱 I’m currently learning ... MongoDB and React!
+- 🌱 I’m currently learning ... more Cloud and DevOps tools and pipelines!
 - 👯 I’m looking to collaborate on ... any projects!
 - 🤔 I’m looking for help with ... becomming an unreplaceable asset to the coding industry
 - 💬 Ask me about ... Anything
