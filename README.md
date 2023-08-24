@@ -31,9 +31,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 
 
-## 😂 Here is a random joke that'll make you laugh!
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <div align="center">
     <img width="60%" src="./assets/quote2.jpeg">
