@@ -84,6 +84,14 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing)](https://git.io/streak-stats)
 
 
+### :fire: My Stats & Dashboard:
+[![wakatime](https://wakatime.com/badge/user/40328614-9e60-43c7-87e1-c9c0b9514952.svg)](https://wakatime.com/@40328614-9e60-43c7-87e1-c9c0b9514952)
+<div align="center">
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev0psKing&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
+<br>
+
+
 
 
 ## 🏆 GitHub Trophies
