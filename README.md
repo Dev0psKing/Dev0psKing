@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://developers.google.com/profile/u/devopsking/)
 [![Twaitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/Dev0psKing)
-[![My Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white&link=https:dev.to/devopsking//)](https://dev.to/devopsking)
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white&link=https:dev.to/devopsking//)](https://dev.to/devopsking)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:uwabor@zohomail.com)](mailto:uwabor@zohomail.com)
 
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Collins King, lover of Samsung & Google Technologies🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
