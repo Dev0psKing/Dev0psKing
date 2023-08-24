@@ -3,6 +3,14 @@ Hello, my name is Collins, aka King.
 -->
 
 # Hi there! Welcome to my GitHub Profile! ✨
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
+</div>
+
+[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://developers.google.com/profile/u/devopsking/)
+[![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/Dev0psKing)
+[![Blog](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://dev.to/devopsking)
+[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:uwabor@zohomail.com)](mailto:uwabor@zohomail.com)
 
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Collins King, lover of Samsung & Google Technologies🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
 
