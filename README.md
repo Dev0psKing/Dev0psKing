@@ -83,7 +83,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
