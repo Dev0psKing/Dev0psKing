@@ -81,7 +81,8 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev0psKing)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing&theme=dark)](https://git.io/streak-stats)
+
 
 
 
