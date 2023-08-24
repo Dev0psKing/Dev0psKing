@@ -43,6 +43,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
 
+
 ## 🛠 Languages and Tools
 
 📖 I have been learning and exploring these following tools and languages
@@ -91,9 +92,6 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=highcontrast)](https://git.io/streak-stats)
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
 
 ## 🏆 GitHub Trophies
