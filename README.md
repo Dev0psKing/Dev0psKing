@@ -83,11 +83,11 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 ### :fire: My Stats & Dashboard:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev0psKing&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
-<br>
-
-
-
+<p align="center">
+    <a href="https://github.com/Dev0psKing/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dev0psKing's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
