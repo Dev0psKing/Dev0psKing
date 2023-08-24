@@ -81,9 +81,6 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 </div>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
 
@@ -92,3 +89,6 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
