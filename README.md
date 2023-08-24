@@ -83,7 +83,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dev0psKing&count_private=false&show_icons=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=highcontrast)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing)](https://git.io/streak-stats)
 
 
