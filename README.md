@@ -82,8 +82,16 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 </div>
 
 
+ <br/>
+    <a href="https://github.com/Dev0psKing/github-readme-stats"><img alt="Ella Adeka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dev0psKing&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Dev0psKing/github-readme-stats"><img alt="Ella Adeka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0psKing&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
