@@ -81,12 +81,7 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev0psKing)](https://git.io/streak-stats)
-
-
 ### :fire: My Stats & Dashboard:
-[![wakatime](https://wakatime.com/badge/user/40328614-9e60-43c7-87e1-c9c0b9514952.svg)](https://wakatime.com/@40328614-9e60-43c7-87e1-c9c0b9514952)
-<div align="center">
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev0psKing&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
 <br>
