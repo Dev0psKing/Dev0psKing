@@ -1,7 +1,3 @@
-<!--
-Hello, my name is Collins, aka King.
--->
-
 # Hi there! Welcome to my GitHub Profile! ✨
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
@@ -31,13 +27,12 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 - 🔭 I’m currently working on ... Continuous improvement of my development skills!
 - 🌱 I’m currently learning ... more Cloud and DevOps tools and pipelines!
 - 👯 I’m looking to collaborate on ... any projects!
-- 🤔 I’m looking for help with ... becomming an unreplaceable asset to the coding industry
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Anything Personal it's okay by me!
 
 
 
 ## 😂 Here is a random joke that'll make you laugh!
-  
+
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <div align="center">
