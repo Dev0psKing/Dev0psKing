@@ -89,6 +89,8 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
     <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://www.selenium.dev/images/selenium_logo_large.png" alt="selenium" width="40" height="40"/></a></code>
 </div>
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
