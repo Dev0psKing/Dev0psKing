@@ -81,9 +81,9 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dev0psKing&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dev0psKing&count_private=false&show_icons=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKin&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
