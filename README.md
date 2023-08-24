@@ -31,8 +31,6 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 
 
-
-
 <div align="center">
     <img width="60%" src="./assets/quote2.jpeg">
 </div>
@@ -91,4 +89,3 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 ![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
