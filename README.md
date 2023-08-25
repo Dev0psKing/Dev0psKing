@@ -1,6 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=Dev0psKing&icon=0&color=0)](https://visitcount.itsvg.in)
+# UWABOR KING COLLINS
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 # Hi there! Welcome to my GitHub Profile! ✨
 <div align="center">
@@ -14,10 +14,9 @@
 
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Collins King, lover of Samsung & Google Technologies🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
-</div>
+
 
 Reflecting back to before I started Uni. in August **2015** for my first degree, I was, _in every sense_, not inclined towards technology. I grew up without a personal computer in a non-wifi environment 🤕 and coding, along with other intricate technical matters, was far from my thoughts. It's amazing how over time, these very aspects that I had never paid attention to became the cornerstone of my career.
 
@@ -67,8 +66,9 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Dev0psKing&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=dark&hide_border=true)<br/> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&&theme=tokyonight" alt="rishavchanda" /></p>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0psKing&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -76,8 +76,6 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
