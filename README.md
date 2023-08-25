@@ -1,6 +1,6 @@
 # UWABOR KING COLLINS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
 
 # Hi there! Welcome to my GitHub Profile! ✨
 <div align="center">
@@ -62,20 +62,19 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Dev0psKing&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=dark&hide_border=true)<br/> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&&theme=tokyonight" alt="rishavchanda" /></p>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0psKing&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&&theme=tokyonight" alt="Dev0psKing" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
