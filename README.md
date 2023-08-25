@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Dev0psKing&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Dev0psKing&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 # Hi there! Welcome to my GitHub Profile! ✨
@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
-[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://developers.google.com/profile/u/devopsking/)
+[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://dev0psking.github.io/Dev0psKing)
 [![Twaitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/Dev0psKing)
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white&link=https:dev.to/devopsking//)](https://dev.to/devopsking)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:uwabor@zohomail.com)](mailto:uwabor@zohomail.com)
