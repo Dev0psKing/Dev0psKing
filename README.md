@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:uwabor@zohomail.com)](mailto:uwabor@zohomail.com)
 
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Collins King, lover of Samsung & Google Technologies🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Solution+Architect;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 
