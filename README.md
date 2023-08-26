@@ -65,9 +65,10 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=Dev0psKing&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&theme=dark&hide_border=true)<br/> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psKing&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev0psKing&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&&theme=tokyonight" alt="Dev0psKing" /></p>
 
 ## 🏆 GitHub Trophies
