@@ -65,7 +65,7 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psKing&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psKing&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev0psKing&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
 
