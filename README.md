@@ -1,6 +1,6 @@
 # UWABOR KING COLLINS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
 
 # Hi there! Welcome to my GitHub Profile! ✨
 <div align="center">
