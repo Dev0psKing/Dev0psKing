@@ -20,7 +20,7 @@
 
 Reflecting back to before I started Uni. in August **2015** for my first degree, I was, _in every sense_, not inclined towards technology. I grew up without a personal computer in a non-wifi environment 🤕 and coding, along with other intricate technical matters, was far from my thoughts. It's amazing how over time, these very aspects that I had never paid attention to became the cornerstone of my career.
 
-As of **2023**, I am venturing into the realm of Computer Science for my **second** degree, an unexpected path catalyzed by my newfound fascination with technology research and development. During my first degree, coding seemed to be an insurmountable challenge, and I couldn't have _disliked_ it more 😕.
+As of **2023**, I am venturing into the World of Computer Science for my **second** degree, an unexpected path catalyzed by my newfound fascination with technology research and development. During my first degree, coding seemed to be an insurmountable challenge, and I couldn't have _disliked_ it more 😕.
 
 However, things took a turn in August **2021**, when I genuinely immersed myself in programming and coding through AlX SE. It was then that I truly grasped the art of learning coding through trial and error.
 
