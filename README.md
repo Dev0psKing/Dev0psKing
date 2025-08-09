@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
+
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://dev0psking.github.io/Dev0psKing)
 [![Twaitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/Dev0psKing)
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white&link=https:dev.to/devopsking//)](https://dev.to/devopsking)
