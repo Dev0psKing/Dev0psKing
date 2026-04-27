@@ -7,17 +7,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
+[![Website](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github&logoColor=white)](https://dev0psking.github.io/Dev0psKing)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dev0psKing)
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devopsking)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:uwabor@zohomail.com)
 
-[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://dev0psking.github.io/Dev0psKing)
-[![Twaitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/Dev0psKing)
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white&link=https:dev.to/devopsking//)](https://dev.to/devopsking)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:uwabor@zohomail.com)](mailto:uwabor@zohomail.com)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="4%"> My name is Collins King, lover of Samsung & Google Technologies 🤓🤓🤓
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Collins King, lover of Samsung & Google Technologies🤓🤓🤓 . <img src="./assets/waving-hand.webp" width="4%">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+Quant+Analyst!;Data+Scientist;Operations+Manager;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=4000&lines=I'm+a+Quant+Analyst!;Data+Scientist;Operations+Manager;Based+in+Lagos,+Nigeria!)](https://git.io/typing-svg)
 
-
+<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
 
 Reflecting back to before I started Uni. in August **2015** for my first degree, I was, _in every sense_, not inclined towards technology. I grew up without a personal computer in a non-wifi environment 🤕 and coding, along with other intricate technical matters, was far from my thoughts. It's amazing how over time, these very aspects that I had never paid attention to became the cornerstone of my career.
 
@@ -29,17 +28,17 @@ Presently, I _take pleasure_ in acquainting myself with novel technologies and p
 
 📖 **Self-directed learning** has seamlessly woven into the fabric of my life. It didn't take long for me to realize that GitHub is the ideal platform to chronicle my transformation from a technophobe to a technophile. It serves as my open learning journal, where I can capture notes and references as I delve into new technical domains. Moreover, it allows me to share these resources with fellow learners who might also find them valuable.
 
-- 🔭 I’m currently working on ... Continuous improvement of my development skills!
-- 🌱 I’m currently learning ... more Cloud and DevOps tools and pipelines!
-- 👯 I’m looking to collaborate on ... any projects!
+- 🔭 I'm currently working on ... Continuous improvement of my development skills!
+- 🌱 I'm currently learning ... more Cloud and DevOps tools and pipelines!
+- 👯 I'm looking to collaborate on ... any projects!
 - 💬 Ask me about ... Anything Personal it's okay by me!
-
 
 # 👨‍💻 Tech Stack
 Here are some technologies I'm familiar with, and some I'm still learning.
+
 ### Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 ### Frameworks
 
@@ -51,7 +50,6 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 
 ### Databases
 
-
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 
 ### Platforms
@@ -60,24 +58,38 @@ Here are some technologies I'm familiar with, and some I'm still learning.
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 # 📊 GitHub Stats:
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psKing&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev0psKing&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev0psKing&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Dev0psKing" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0psKing&&theme=tokyonight" alt="Dev0psKing" /></p>
+<!-- GitHub Streak Stats - FIXED VERSION -->
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dev0psKing&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dev0psKing" />
+</p>
+
+<!-- Top Languages -->
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psKing&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Dev0psKing" />
+</p> -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev0psKing&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Dev0psKing" />
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev0psKing&label=Profile%20views&color=0e75b6&style=flat" alt="Dev0psKing" /> </p>
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 😂 Random Dev Meme
+<p align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+</p>
 
+<!-- Proudly created with love -->
